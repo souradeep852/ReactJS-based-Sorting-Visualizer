@@ -2,4 +2,4 @@ This ReactJS based app helps you visualize the process of sorting an unsorted ar
 
 Done By: Souradeep Kar  
 Personal Project  
-Tech Stack Used: HTML, CSS, JS, React.  
+Tech Stack Used: React.  
